@@ -1,0 +1,16 @@
+html {
+    font-family: 'Anton', sans-serif;
+}
+
+body {
+    font-size: regular;
+    width: 50%;
+    max-width: 800;
+    min-width: 480;
+    margin: 0 auto;
+}
+
+.lastResult {
+    color: #00cec9;
+    padding: 3px;
+}
