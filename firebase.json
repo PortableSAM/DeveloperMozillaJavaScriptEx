@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "DeveloperMozillaJavaScriptEx",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [{
+      "source": "**",
+      "destination": "Index.html"
+    }]
+  }
+}
